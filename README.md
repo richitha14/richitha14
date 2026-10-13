@@ -25,9 +25,9 @@ Automated resume screening application built using Python and SQL for structured
 Responsive weather application using REST APIs to display real-time weather information.
 
 ## Education
-B.Tech – Computer Science & Engineering  
+B.Tech – Information Technology  
 Vijaya Institute of Technology (JNTUK)  
-CGPA: 7.5
+CGPA: 8.5
 
 ## Contact
 📧 richitha.m14@gmail.com
